@@ -19,6 +19,7 @@
 - Gabungkan list (B) dengan list (A)
 
 ![gambar](gambar/bar3.png)
+# Setelah di Run
 ![gambar](gambar/bar2.png)
 
 # Tugas Praktikum
