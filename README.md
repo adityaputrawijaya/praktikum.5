@@ -35,7 +35,7 @@
 - setelah sudah membuat list pada variabel di atas kita akan membuat program perulangan agar kita dapat memasukan data sebanyak banyaknya
 - Membuat program pilihan (y/t), yaitu ketika kita menginputkan Y, maka kita akan diminta untuk mengisikan data kembali. Namun ketika kita menginputkan T, maka program akan berakhir dengan menampilkan hasil inputan data yang telah kita buat
 - Kita juga dapat membuat tabel menggunakan performatan string agar terlihat lebih rapih
-![gambar](gambar/bar1.png)
+![gambar](gambar/bar4.png)
 
 - Hasil dari program yang telah dibuat ditampilkan/diekspresikan dan akan jadi seperti di bawah ini ketika sudah di jalankan (Run):
 ## Tampilan Program
