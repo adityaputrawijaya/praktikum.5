@@ -22,6 +22,7 @@
 ## Setelah di Run 
 ![gambar](gambar/bar2.png)
 
+
 # Tugas Praktikum
 ### Buatlah program sederhana untuk menambahkan data kedalam sebuah list dengan rincian:
 - Program meminta memasukan data sebanyak mungkin (menggunakan perulangan)
