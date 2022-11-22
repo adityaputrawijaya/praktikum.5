@@ -41,4 +41,4 @@
 ## Tampilan Program
 ![gambar](gambar/bar1.png)
 
-![gambar](gambar/bar7.png)
+![gambar](gambar/bar7.jpeg)
