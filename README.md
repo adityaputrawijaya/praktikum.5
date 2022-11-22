@@ -40,3 +40,5 @@
 - Hasil dari program yang telah dibuat ditampilkan/diekspresikan dan akan jadi seperti di bawah ini ketika sudah di jalankan (Run):
 ## Tampilan Program
 ![gambar](gambar/bar1.png)
+
+![gambar](gambar/bar7.png)
