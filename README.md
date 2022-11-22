@@ -41,4 +41,4 @@
 ## Tampilan Program
 ![gambar](gambar/bar1.png)
 
-![gambar](gambar/ss55.jpeg)
+![gambar](gambar/IMG-20221122-WA0002.jpg)
